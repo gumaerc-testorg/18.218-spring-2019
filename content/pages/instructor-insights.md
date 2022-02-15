@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9a9578c9-baa0-939e-bc0c-f5c7c092fe20
 ---
@@ -34,20 +36,6 @@ No specific classes are required, but the course presupposes mathematical maturi
 ### Offered
 
 A course covering a different topic in combinatorics is offered every spring semester; this iteration of 18.218 was such a course, but in the future it will be offered regularly under its own course number every other fall semester. 
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view over several tiers of desks toward the classroom’s lectern area and blackboards.]({{< resource_file 4b828775-c144-00a1-c6c5-f6f66c83bc3a >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Classes were held in a small lecture hall with about 60 tiered seats at shared desks, multiple blackboards, and an A/V system.
-    
 
 Assessment
 ----------
