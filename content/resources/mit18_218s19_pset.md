@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fb56d309-84ee-cabb-1b03-1b83b9f968cb
 resourcetype: Document
 title: 18.218 Probabilistic Method in Combinatorics, Problem Set
 uid: ae9bfaa1-1258-d622-aa75-70007a19b66e
