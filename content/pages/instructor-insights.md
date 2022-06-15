@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 9a9578c9-baa0-939e-bc0c-f5c7c092fe20
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Professor Yufei Zhao describes various aspects of how he taught _18.218_ _Probabilistic Method in Combinatorics_.
 
@@ -22,8 +22,7 @@ Below, Professor Yufei Zhao describes various aspects of how he taught _18.218_ 
 
 **Yufei Zhao:** The goal of the course was to introduce students to the probabilistic method, which has many applications that are quite nice and short. The students appreciated seeing a lot of examples in class. Longer proofs tend to be less well suited to the lecture format as they’re harder to follow. I’ve found that the lectures that work best are ones filled with small and neat examples and applications illustrating the method being discussed.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -37,17 +36,17 @@ No specific classes are required, but the course presupposes mathematical maturi
 
 A course covering a different topic in combinatorics is offered every spring semester; this iteration of 18.218 was such a course, but in the future it will be offered regularly under its own course number every other fall semester. 
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 Grading for 18.218 was entirely based on problem sets. There are no exams.
 
-Student Information
--------------------
+## Student Information
 
-![68 students took this course when it was taught in Spring 2019.]({{< resource_file c55e445a-8059-4de4-4d80-795ff086683b >}})
+### Enrollment
+
+68 students
 
 ### Breakdown by Year
 
@@ -63,17 +62,14 @@ Most students in the course had strong mathematical problem solving backgrounds;
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 2 times per week for 1.5 hours per session; 25 sessions total.
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students spent most of their time solving problems from the five assigned problem sets.
