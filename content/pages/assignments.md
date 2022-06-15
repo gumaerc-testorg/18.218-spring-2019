@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: fb56d309-84ee-cabb-1b03-1b83b9f968cb
 ---
 
-The [problem set (PDF)]({{< baseurl >}}/resources/mit18_218s19_pset) is a list of problems for practice. A subset of these problems will be designated as to-be-turned in. Only the designated problems are required to be submitted. Bonus problems, marked by ★, are more challenging. A grade of A- may be attained by only solving the non-starred problems. To attain a grade of A or A+, you should solve a substantial number of starred problems.
+The {{% resource_link ae9bfaa1-1258-d622-aa75-70007a19b66e "problem set (PDF)" %}} is a list of problems for practice. A subset of these problems will be designated as to-be-turned in. Only the designated problems are required to be submitted. Bonus problems, marked by ★, are more challenging. A grade of A- may be attained by only solving the non-starred problems. To attain a grade of A or A+, you should solve a substantial number of starred problems.
 
 {{< tableopen >}}
 {{< theadopen >}}

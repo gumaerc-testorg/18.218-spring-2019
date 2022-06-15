@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-218-probabilistic-method-in-combinatorics-spring-2019/658e52b3f22777a5b9242681ae40dc0a_MIT18_218S19_full_notes.pdf
+file: /courses/18-218-probabilistic-method-in-combinatorics-spring-2019/658e52b3f22777a5b9242681ae40dc0a_MIT18_218S19_full_notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

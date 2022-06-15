@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-218-probabilistic-method-in-combinatorics-spring-2019/ae9bfaa11258d622aa7570007a19b66e_MIT18_218S19_pset.pdf
+file: /courses/18-218-probabilistic-method-in-combinatorics-spring-2019/ae9bfaa11258d622aa7570007a19b66e_MIT18_218S19_pset.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

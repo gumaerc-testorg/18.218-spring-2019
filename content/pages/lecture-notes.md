@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 411e17c7-f13c-74b6-4119-499c9dd93d76
 ---
 
-The ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[full lecture notes (PDF)]({{< baseurl >}}/resources/mit18_218s19_full_notes) and the notes by topic below were typed by Andrew Lin. Used with permission.
+The {{% resource_link 658e52b3-f227-77a5-b924-2681ae40dc0a "full lecture notes (PDF)" %}} and the notes by topic below were typed by Andrew Lin. Used with permission.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +28,7 @@ TOPICS
 1–2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to the Probabilistic Method (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch1)
+{{% resource_link d35bc768-a0a7-3f2a-c2f7-7ab636cfd71d "Introduction to the Probabilistic Method (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 2–4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linearity of Expectation (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch2)
+{{% resource_link d6ad1b82-e2fd-a2a8-cf14-12a70fab8516 "Linearity of Expectation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Alterations (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch3)
+{{% resource_link 634236e6-884b-32e0-5544-c4694bb8f961 "Alterations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ TOPICS
 6–8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Second Moment Method (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch4)
+{{% resource_link ac68b3bd-768f-aa56-4912-fd9824c6bad0 "The Second Moment Method (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Chernoff Bound (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch5)
+{{% resource_link e90ea55f-0036-0c78-8562-66fac057faa1 "The Chernoff Bound (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ TOPICS
 10–13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Lovász Local Lemma (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch6)
+{{% resource_link 73393b9f-4649-930b-eca3-ead69551c977 "The Lovász Local Lemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ TOPICS
 14–15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Correlation and Janson’s Inequalities (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch7)
+{{% resource_link 6251e3c1-1c9c-0364-46f1-53c476d69340 "Correlation and Janson’s Inequalities (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ TOPICS
 16–17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Martingale Convergence and Azuma’s Inequality (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch8)
+{{% resource_link fa7327ff-0f0f-6c43-9ffc-d8ce0c6a775d "Martingale Convergence and Azuma’s Inequality (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ TOPICS
 18–20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concentration of Measure (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch9)
+{{% resource_link a1ab6dca-aab3-0afa-28ae-0fcc4a0175af "Concentration of Measure (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ TOPICS
 21–22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Entropy Methods (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch10)
+{{% resource_link 191b61d0-86ff-5c64-da78-58fe9eea5b68 "Entropy Methods (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ TOPICS
 23–24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Occupancy Method (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch11)
+{{% resource_link 88d43489-4781-5c33-c28d-35afee54172a "The Occupancy Method (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ TOPICS
 25
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A Teaser for “Graph Theory and Additive Combinatorics” (PDF)]({{< baseurl >}}/resources/mit18_218s19_ch12)
+{{% resource_link f5cf8ce3-e961-7345-171f-480feaf77766 "A Teaser for “Graph Theory and Additive Combinatorics” (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
