@@ -30,7 +30,7 @@ No specific classes are required, but the course presupposes mathematical maturi
 
 ### Requirements Satisfied
 
-18.218 can be applied toward a doctorate degree in {{% resource_link "0a26ff2d-919e-48b8-a60a-b4ffe1279ed9" "Pure or Applied Mathematics" %}}, but is not required.
+18.218 can be applied toward a doctorate degree in [Pure or Applied Mathematics](http://math.mit.edu/academics/grad/index.php), but is not required.
 
 ### Offered
 
